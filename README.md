@@ -1,5 +1,5 @@
-<h1 align="center">Hello!! 👋, I'm Aiden</h1>
-<h3 align="center">Coding student at Pope High School, Passionate artist</h3>
+<h1 align="center">Hello!! 👋, I'm Alice</h1>
+
 
 - 📫 How to reach me **kainja7@gmail.com**
 
